@@ -75,7 +75,7 @@ section#ficha{
 
 section#ficha img.foto{
   width: 200px;
-  aspect-ratio: 1/1;
+  aspect-ratio: 1/1; /* Proporção de 1 pra 1 - usar o object-fit junto para ajustar o achatamento */
   object-fit: cover;
   overflow: hidden;
   border-radius: 50%;
