@@ -249,6 +249,17 @@ article h2{
   border-radius: 8px;
 }
 
+#projeto-container .periodo{
+  font-size: 0.8em;
+  font-weight: bold;
+  color: var(--texto);
+}
+
+#projeto-container .titulo{
+  color: var(--destaque-inverso);
+  font-size: 1.1em;
+}
+
 footer{
   background-color: var(--destaque);
   padding: 15px;
